@@ -4,7 +4,7 @@ This is my alternative/new account, hence, `alt-rahul`. If you want to view my o
 
 I will attempt to do cool stuff here, with math and cs, particularly with AI. 
 
-I appreciate visiting my profile (or somehow finding it), so as a gift, enjoy [this](https://shattereddisk.github.io/rickroll/rickroll.mp4). 
+I appreciate visiting my profile (or somehow finding it).
 
 <!---
 alt-rahul/alt-rahul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
